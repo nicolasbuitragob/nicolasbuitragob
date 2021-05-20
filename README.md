@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### My name is Nicolas Buitrago. I am an environmental engineer focusing on data science and machine learning
+
 <!--
 **nicolasbuitragob/nicolasbuitragob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
