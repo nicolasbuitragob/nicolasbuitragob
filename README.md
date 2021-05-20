@@ -6,9 +6,9 @@ Cycling is my second passion :bicyclist:
 
 Data science for social good is the first :earth_americas:
 
-If you have a project covering data science for social good, tell me how can I contribute to create value for the world
+If you have a project covering data science for social good, tell me how can I contribute to create value
 
-Recently, I joined as a Junior machine learning engineer in Omdena to generate a real world impact with people around the world
+Recently, I joined as a Junior machine learning engineer in Omdena to generate a real world impact with people around the globe
 
 
 
