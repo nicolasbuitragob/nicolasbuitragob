@@ -1,15 +1,14 @@
 ## Hi there 👋
 
-### My name is Nicolas Buitrago. I am an environmental engineer focusing on data science and machine learning right now
+### My name is Nicolas Buitrago. I am an environmental engineer focusing on data science and machine learning
 
 Cycling is my second passion :bicyclist:
 
 Data science for social good is the first :earth_americas:
 
-If you have a project covering data science for social good tell how can I contribute
+If you have a project covering data science for social good tell how can I contribute to create value for the world
 
-Recently, I joined as a Junior machine learning engineer in Omdena 
-
+Recently, I joined as a Junior machine learning engineer in Omdena to generate an real world impact with people around the world
 
 
 
