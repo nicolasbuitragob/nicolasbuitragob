@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi I am Nicolas 👋
 
-### My name is Nicolas Buitrago. I am an environmental engineer focusing on data science and machine learning
+### I am an environmental engineer focusing on data science and machine learning
 
 Cycling is my second passion :bicyclist:
 
