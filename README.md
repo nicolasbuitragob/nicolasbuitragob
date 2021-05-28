@@ -1,4 +1,4 @@
-## Hi I am Nicolas 👋
+## Hi, I am Nicolas 👋
 
 ### I am an environmental engineer focusing on data science and machine learning
 
