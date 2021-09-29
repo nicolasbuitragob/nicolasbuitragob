@@ -4,9 +4,9 @@
 
 Cycling is my second passion :bicyclist:
 
-Data science for social good is the first :earth_americas:
+AI for good is the first :earth_americas:
 
-If you have a project covering data science for social good, tell me how can I contribute and help
+If you have a project covering machine learning for social good, tell me how can I contribute and help
 
 
 
