@@ -1,6 +1,6 @@
 ## Hi, I am Nicolas 👋
 
-### I am an environmental engineer focusing on data science and machine learning
+### I am a machine learning engineer with a background in environmental engineering
 
 Cycling is my second passion :bicyclist:
 
