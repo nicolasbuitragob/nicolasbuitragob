@@ -1,27 +1,4 @@
 ## Hi, I am Nicolas 👋
 
-### I am a machine learning engineer with a background in environmental engineering
+Lead Software Engineer working on multimodal AI and world models for smart glasses. Previously built recommendation, RAG, LLM, and production ML systems across hiring, NLP, and computer vision.
 
-Cycling is my second passion :bicyclist:
-
-AI for good is the first :earth_americas:
-
-If you have a project covering machine learning for social good, tell me how can I contribute and help
-
-
-
-
-<!--
-**nicolasbuitragob/nicolasbuitragob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
